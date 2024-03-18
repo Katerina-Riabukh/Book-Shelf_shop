@@ -1,15 +1,15 @@
 {
-  "name": "Bookshelf-team-project",
+  "name": "Book-Shelf_shop",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://viktoriarosovska.github.io/Bookshelf-team-project/",
+  "homepage": "https://viktoriarosovska.github.io/Book-Shelf_shop/",
   "scripts": {
     "start": "parcel src/*.html --no-cache",
-    "build": "parcel build src/*.html --public-url /Bookshelf-team-project/ --no-cache"
+    "build": "parcel build src/*.html --public-url /Book-Shelf_shop/ --no-cache"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ViktoriaRosovska/Bookshelf-team-project"
+    "url": "git+https://github.com/ViktoriaRosovska/Book-Shelf_shop"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
